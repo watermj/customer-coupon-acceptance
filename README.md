@@ -9,6 +9,7 @@ Dataset: [coupons.csv](https://github.com/watermj/customer-coupon-acceptance/edi
 
 ### Problem 1:  
 - Initial examination of dataset and data cleanning of dataset coupons.csv.
+
 Results:
 - Removed 'car' column as not enough data provided
 - Fixed misspelling of column heading for passenger
