@@ -7,8 +7,8 @@ Python notebook: [prompt.ipynb](https://github.com/watermj/customer-coupon-accep
 
 Dataset: [coupons.csv](https://github.com/watermj/customer-coupon-acceptance/edit/main/coupons.csv) 
 
-# Problem 1:  
+## Problem 1:  
 - Initial examination of dataset and data cleanning of dataset coupons.csv.
 
-# Problem 2:
+## Problem 2:
 - Investigating the Bar coupon usage
