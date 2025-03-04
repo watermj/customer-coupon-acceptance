@@ -12,3 +12,7 @@ Dataset: [coupons.csv](https://github.com/watermj/customer-coupon-acceptance/edi
 
 ### Problem 2:
 - Investigating the Bar coupon usage
+
+### Problem 3:
+- Investigating the Expenseive Restuarant coupon usage
+
